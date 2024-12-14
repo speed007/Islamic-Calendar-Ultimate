@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 X-WR-CALNAME:Islamic Calendar Ultimate Sunni
 BEGIN:VEVENT
 SUMMARY:1 Muharram - Islamic New Year
-DTSTART;VALUE=DATE:20230719
-DTEND;VALUE=DATE:20230720
+DTSTART;VALUE=DATE:20240707
+DTEND;VALUE=DATE:20240708
 DESCRIPTION:This day marks the beginning of the month of Muharram in the I
  slamic calendar.
 BEGIN:VALARM
@@ -20,8 +20,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10 Muharram - Martyrdom of Imam Hussain (رَضِيَ ٱللهُ 
  عَنْهُ)
-DTSTART;VALUE=DATE:20230728
-DTEND;VALUE=DATE:20230729
+DTSTART;VALUE=DATE:20240716
+DTEND;VALUE=DATE:20240717
 DESCRIPTION:Martyrdom of Imam Hussain (رَضِيَ ٱللهُ عَنْه
  ُ)\, the grandson of Prophet Muhammad (صَلَّى ٱللَّٰهُ عَ
  لَيْهِ وَسَلَّمَ)\, took place in the year 61 AH in Karbala
@@ -42,8 +42,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:20 Muharram - Demise of Sakina bint Imam Hussain (رَضِيَ ٱ
  للهُ عَنْهُ)
-DTSTART;VALUE=DATE:20230807
-DTEND;VALUE=DATE:20230808
+DTSTART;VALUE=DATE:20240726
+DTEND;VALUE=DATE:20240727
 DESCRIPTION:The demise of Sakina bint Imam Hussain (رَضِيَ ٱلله
  ُ عَنْهُ)\, the beloved daughter of Imam Hussain (رَضِيَ ٱل
  لهُ عَنْهُ)\, occurred in the year 61 AH in the prison of Damascu
@@ -64,8 +64,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:25 Muharram - Martyrdom of Imam Ali ibn Hussain Zain-ul-Abideen (
  رَضِيَ ٱللهُ عَنْهُ)
-DTSTART;VALUE=DATE:20230812
-DTEND;VALUE=DATE:20230813
+DTSTART;VALUE=DATE:20240731
+DTEND;VALUE=DATE:20240801
 DESCRIPTION:Imam Ali ibn Hussain Zain-ul-Abideen (رَضِيَ ٱللهُ 
  عَنْهُ)\, the son of Imam Hussain (رَضِيَ ٱللهُ عَنْ
  هُ) and the great-grandson of Prophet Muhammad (صَلَّى ٱللَّ
@@ -86,8 +86,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Safar - First Day of Safar
-DTSTART;VALUE=DATE:20230817
-DTEND;VALUE=DATE:20230818
+DTSTART;VALUE=DATE:20240805
+DTEND;VALUE=DATE:20240806
 DESCRIPTION:This day marks the beginning of the month of Safar in the Isla
  mic calendar.
 BEGIN:VALARM
@@ -104,8 +104,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:24 Safar (or 16 Zilhaj) - Martyrdom of Zainab bint Ali (رَضِي
  َ ٱللهُ عَنْهُ)
-DTSTART;VALUE=DATE:20230909
-DTEND;VALUE=DATE:20230910
+DTSTART;VALUE=DATE:20240828
+DTEND;VALUE=DATE:20240829
 DESCRIPTION:Zainab bint Ali (رَضِيَ ٱللهُ عَنْهُ)\, the d
  aughter of Imam Ali (رَضِيَ ٱللهُ عَنْهُ) and the grandda
  ughter of Prophet Muhammad (صَلَّى ٱللَّٰهُ عَلَيْهِ
@@ -127,8 +127,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:28 Safar - Martyrdom of Imam Hassan ibn Ali (رَضِيَ ٱلله
  ُ عَنْهُ)
-DTSTART;VALUE=DATE:20230913
-DTEND;VALUE=DATE:20230914
+DTSTART;VALUE=DATE:20240901
+DTEND;VALUE=DATE:20240902
 DESCRIPTION:Imam Hassan ibn Ali (رَضِيَ ٱللهُ عَنْهُ)\, t
  he grandson of Prophet Muhammad (صَلَّى ٱللَّٰهُ عَلَي
  ْهِ وَسَلَّمَ)\, was martyred in the year 50 AH in Medina\, Sa
@@ -148,8 +148,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Rabi-ul-Awwal - First Day of Rabi-ul-Awwal
-DTSTART;VALUE=DATE:20230916
-DTEND;VALUE=DATE:20230917
+DTSTART;VALUE=DATE:20240904
+DTEND;VALUE=DATE:20240905
 DESCRIPTION:This day marks the beginning of the month of Rabi-ul-Awwal in 
  the Islamic calendar.
 BEGIN:VALARM
@@ -166,8 +166,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:12 Rabi-ul-Awwal - Birth of Holy Prophet Muhammad (صَلَّى ٱ
  للَّٰهُ عَلَيْهِ وَسَلَّمَ)
-DTSTART;VALUE=DATE:20230927
-DTEND;VALUE=DATE:20230928
+DTSTART;VALUE=DATE:20240915
+DTEND;VALUE=DATE:20240916
 DESCRIPTION:The birth of Prophet Muhammad (صَلَّى ٱللَّٰهُ 
  عَلَيْهِ وَسَلَّمَ)\, the final messenger of Islam\, is c
  elebrated on this day\, believed to be in the year 570 AD in Mecca\, Saudi
@@ -188,8 +188,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:17 Rabi-ul-Awwal - Birth of Imam Jafar al-Sadiq (رَضِيَ ٱل
  لهُ عَنْهُ)
-DTSTART;VALUE=DATE:20231002
-DTEND;VALUE=DATE:20231003
+DTSTART;VALUE=DATE:20240920
+DTEND;VALUE=DATE:20240921
 DESCRIPTION:Imam Jafar al-Sadiq (رَضِيَ ٱللهُ عَنْهُ)\, D
  escendant of Prophet Muhammad (صَلَّى ٱللَّٰهُ عَلَيْ
  هِ وَسَلَّمَ)\, was born in the year 83 AH in Medina\, Saudi Ar
@@ -209,8 +209,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Rabi al-Thani - First Day of Rabi al-Thani
-DTSTART;VALUE=DATE:20231016
-DTEND;VALUE=DATE:20231017
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241005
 DESCRIPTION:This day marks the beginning of the month of Rabi-ul-Awwal in 
  the Islamic calendar.
 BEGIN:VALARM
@@ -226,8 +226,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Jamadi-ul-Awwal - First Day of Jamadi-ul-Awwal
-DTSTART;VALUE=DATE:20231115
-DTEND;VALUE=DATE:20231116
+DTSTART;VALUE=DATE:20241103
+DTEND;VALUE=DATE:20241104
 DESCRIPTION:This day marks the beginning of the month of Rabi-ul-Awwal in 
  the Islamic calendar.
 BEGIN:VALARM
@@ -244,8 +244,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15 Jamadi-ul-Awwal - Birth of Imam Ali ibn Hussain Zain-ul-Abideen
   (رَضِيَ ٱللهُ عَنْهُ)
-DTSTART;VALUE=DATE:20231129
-DTEND;VALUE=DATE:20231130
+DTSTART;VALUE=DATE:20241117
+DTEND;VALUE=DATE:20241118
 DESCRIPTION:Imam Ali ibn Hussain Zain-ul-Abideen (رَضِيَ ٱللهُ 
  عَنْهُ)\, Descendant of Prophet Muhammad (صَلَّى ٱللَّٰ
  هُ عَلَيْهِ وَسَلَّمَ)\, was born on this day in the ye
@@ -267,8 +267,8 @@ BEGIN:VEVENT
 SUMMARY:1 Jumada al-Thani - First Day of Jumada al-Thani- Description: Thi
  s day marks the beginning of the month of Jumada al-Thani in the Islamic c
  alendar.
-DTSTART;VALUE=DATE:20231214
-DTEND;VALUE=DATE:20231215
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241203
 DESCRIPTION:
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -288,8 +288,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 Jumada al-Thani - Demise of Fatima Zahra (رضي الله عنه
  ا)
-DTSTART;VALUE=DATE:20231216
-DTEND;VALUE=DATE:20231217
+DTSTART;VALUE=DATE:20241204
+DTEND;VALUE=DATE:20241205
 DESCRIPTION:Fatima Zahra (رضي الله عنها)\, the daughter of Prop
  het Muhammad (صَلَّى ٱللَّٰهُ عَلَيْهِ وَسَلَ
  ّمَ) and the wife of Imam Ali (رَضِيَ ٱللهُ عَنْهُ)\, 
@@ -308,8 +308,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:20 Jumada al-Thani - Birth of Fatima Zahra (رضي الله عنه
  ا)
-DTSTART;VALUE=DATE:20240102
-DTEND;VALUE=DATE:20240103
+DTSTART;VALUE=DATE:20241221
+DTEND;VALUE=DATE:20241222
 DESCRIPTION:Fatima Zahra (رضي الله عنها)\, the beloved daughter
   of Prophet Muhammad (صَلَّى ٱللَّٰهُ عَلَيْهِ وَ
  سَلَّمَ) and an esteemed figure in Islam\, was born on this day in 
@@ -327,8 +327,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Rajab - First Day of Rajab
-DTSTART;VALUE=DATE:20240113
-DTEND;VALUE=DATE:20240114
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250102
 DESCRIPTION:This day marks the beginning of the month of Rajab in the Isla
  mic calendar.
 BEGIN:VALARM
@@ -345,8 +345,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:13 Rajab - Birth of Commander of the Faithful\, Ali ibn Abi Talib 
  (رَضِيَ ٱللهُ عَنْهُ)
-DTSTART;VALUE=DATE:20240125
-DTEND;VALUE=DATE:20240126
+DTSTART;VALUE=DATE:20250113
+DTEND;VALUE=DATE:20250114
 DESCRIPTION:"Maula Ali ibn Abi Talib (رَضِيَ ٱللهُ عَنْهُ
  )\, born on this day in the year 600 AD in Mecca\, Saudi Arabia\, is renow
  ned as the Lion of Allah and the Gateway to the City of Knowledge.
@@ -366,8 +366,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:27 Rajab - Al Isra’ wal Mi’raj (The night journey and ascensio
  n)
-DTSTART;VALUE=DATE:20240208
-DTEND;VALUE=DATE:20240209
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250128
 DESCRIPTION:This event commemorates the night journey and ascension of Pro
  phet Muhammad (صَلَّى ٱللَّٰهُ عَلَيْهِ وَسَلَ
  ّمَ) to the heavens\, which is believed to have taken place on this day
@@ -388,8 +388,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Shaban - Birth of Zainab bint Ali (رَضِيَ ٱللهُ عَ
  نْهُ)
-DTSTART;VALUE=DATE:20240211
-DTEND;VALUE=DATE:20240212
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
 DESCRIPTION:Zainab bint Ali (رَضِيَ ٱللهُ عَنْهُ)\, the d
  aughter of Imam Ali (رَضِيَ ٱللهُ عَنْهُ) and the grandda
  ughter of Prophet Muhammad (صَلَّى ٱللَّٰهُ عَلَيْهِ
@@ -411,8 +411,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 Shaban - Birth of Imam Hussain ibn Ali (رَضِيَ ٱللهُ 
  عَنْهُ)
-DTSTART;VALUE=DATE:20240213
-DTEND;VALUE=DATE:20240214
+DTSTART;VALUE=DATE:20250202
+DTEND;VALUE=DATE:20250203
 DESCRIPTION:Imam Hussain ibn Ali (رَضِيَ ٱللهُ عَنْهُ)\, 
  the third Imam of the Shia Muslims and the grandson of Prophet Muhammad (
  صَلَّى ٱللَّٰهُ عَلَيْهِ وَسَلَّمَ)\, was b
@@ -433,8 +433,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4 Shaban - Birth of Hazrat Abbas ibn Ali (رَضِيَ ٱللهُ 
  عَنْهُ)
-DTSTART;VALUE=DATE:20240214
-DTEND;VALUE=DATE:20240215
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250204
 DESCRIPTION:Hazrat Abbas ibn Ali (رَضِيَ ٱللهُ عَنْهُ)\, 
  the son of Imam Ali (رَضِيَ ٱللهُ عَنْهُ) and the brother
   of Imam Hussain (رَضِيَ ٱللهُ عَنْهُ)\, was born on this
@@ -455,8 +455,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:11 Shaban - Birth of Hazrat Ali Akbar ibn Hussain (رَضِيَ ٱ
  للهُ عَنْهُ)
-DTSTART;VALUE=DATE:20240221
-DTEND;VALUE=DATE:20240222
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250211
 DESCRIPTION:Hazrat Ali Akbar ibn Hussain (رَضِيَ ٱللهُ عَنْ
  هُ)\, the son of Imam Hussain (رَضِيَ ٱللهُ عَنْهُ)\, w
  as born on this day. He is remembered for his bravery and resemblance to h
@@ -477,8 +477,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15 Shaban - Shab-e-Barat
-DTSTART;VALUE=DATE:20240225
-DTEND;VALUE=DATE:20240226
+DTSTART;VALUE=DATE:20250214
+DTEND;VALUE=DATE:20250215
 DESCRIPTION:Shab-e-Barat\, also known as the Night of Forgiveness\, is obs
  erved on the 15th night of the Islamic month of Shaban
 BEGIN:VALARM
@@ -494,8 +494,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Ramadan - Ramadan begins
-DTSTART;VALUE=DATE:20240311
-DTEND;VALUE=DATE:20240312
+DTSTART;VALUE=DATE:20250301
+DTEND;VALUE=DATE:20250302
 DESCRIPTION:This day marks the beginning of the month of Ramadan in the Is
  lamic calendar
 BEGIN:VALARM
@@ -512,8 +512,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:8 Ramadan - Martyrdom of Hazrat Abu Talib (رَضِيَ ٱللهُ
   عَنْهُ)
-DTSTART;VALUE=DATE:20240318
-DTEND;VALUE=DATE:20240319
+DTSTART;VALUE=DATE:20250308
+DTEND;VALUE=DATE:20250309
 DESCRIPTION:Hazrat Abu Talib (رَضِيَ ٱللهُ عَنْهُ)\, the 
  uncle and protector of Prophet Muhammad (صَلَّى ٱللَّٰهُ ع
  َلَيْهِ وَسَلَّمَ)\, passed away on this day in the year 6
@@ -534,8 +534,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10 Ramadan - Demise of Hazrat Khadija-tul-Kubra (رضي الله 
  عنها)
-DTSTART;VALUE=DATE:20240320
-DTEND;VALUE=DATE:20240321
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250311
 DESCRIPTION:Hazrat Khadija-tul-Kubra (رضي الله عنها)\, the firs
  t wife of Prophet Muhammad (صَلَّى ٱللَّٰهُ عَلَيْهِ
   وَسَلَّمَ) and the mother of the believers\, passed away on this
@@ -556,8 +556,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15 Ramadan - Birth of Imam Hassan ibn Ali (رَضِيَ ٱللهُ
   عَنْهُ)
-DTSTART;VALUE=DATE:20240325
-DTEND;VALUE=DATE:20240326
+DTSTART;VALUE=DATE:20250315
+DTEND;VALUE=DATE:20250316
 DESCRIPTION:Imam Hassan ibn Ali (رَضِيَ ٱللهُ عَنْهُ)\, t
  he grandson of Prophet Muhammad (صَلَّى ٱللَّٰهُ عَلَي
  ْهِ وَسَلَّمَ)\, was born on this day in the year 625 AD in Me
@@ -578,8 +578,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:17 Ramadan - Demise of Sayyidah Aisha bint Abi Bakr (رَضِيَ 
  ٱللهُ عَنْهُ)
-DTSTART;VALUE=DATE:20240327
-DTEND;VALUE=DATE:20240328
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250318
 DESCRIPTION:Sayyidah Aisha bint Abi Bakr (رَضِيَ ٱللهُ عَنْ
  هُ)\, the wife of Prophet Muhammad (صَلَّى ٱللَّٰهُ عَل
  َيْهِ وَسَلَّمَ) and a prominent figure in Islamic history\,
@@ -601,8 +601,8 @@ BEGIN:VEVENT
 SUMMARY:18 Ramadan - Night of the Attack on Commander of the Faithful\, Al
  i (رَضِيَ ٱللهُ عَنْهُ)\, Maula Ali (رَضِيَ ٱلل
  هُ عَنْهُ)
-DTSTART;VALUE=DATE:20240328
-DTEND;VALUE=DATE:20240329
+DTSTART;VALUE=DATE:20250318
+DTEND;VALUE=DATE:20250319
 DESCRIPTION:On this night\, Lion of Allah Maula Ali ibn Abi Talib (رَض
  ِيَ ٱللهُ عَنْهُ)\, was hurt by a poisoned sword while he wa
  s praying in the mosque in Kufa\, Iraq.
@@ -623,8 +623,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:21 Ramadan - Night of Qadr (Revelation of Quran)
-DTSTART;VALUE=DATE:20240331
-DTEND;VALUE=DATE:20240401
+DTSTART;VALUE=DATE:20250321
+DTEND;VALUE=DATE:20250322
 DESCRIPTION:Laylat al-Qadr\, also known as the Night of Decree\, is believ
  ed to be the night when the Quran was first revealed to Prophet Muhammad (
  صَلَّى ٱللَّٰهُ عَلَيْهِ وَسَلَّمَ). It is 
@@ -642,8 +642,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:23 Ramadan - Night of Qadr (Revelation of Quran)
-DTSTART;VALUE=DATE:20240402
-DTEND;VALUE=DATE:20240403
+DTSTART;VALUE=DATE:20250323
+DTEND;VALUE=DATE:20250324
 DESCRIPTION:Laylat al-Qadr\, also known as the Night of Decree\, is believ
  ed to be the night when the Quran was first revealed to Prophet Muhammad (
  صَلَّى ٱللَّٰهُ عَلَيْهِ وَسَلَّمَ). It is 
@@ -661,8 +661,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:25 Ramadan - Night of Qadr (Revelation of Quran)
-DTSTART;VALUE=DATE:20240404
-DTEND;VALUE=DATE:20240405
+DTSTART;VALUE=DATE:20250325
+DTEND;VALUE=DATE:20250326
 DESCRIPTION:Laylat al-Qadr\, also known as the Night of Decree\, is believ
  ed to be the night when the Quran was first revealed to Prophet Muhammad (
  صَلَّى ٱللَّٰهُ عَلَيْهِ وَسَلَّمَ). It is 
@@ -680,8 +680,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:27 Ramadan - Night of Qadr (Revelation of Quran)
-DTSTART;VALUE=DATE:20240406
-DTEND;VALUE=DATE:20240407
+DTSTART;VALUE=DATE:20250327
+DTEND;VALUE=DATE:20250328
 DESCRIPTION:Laylat al-Qadr\, also known as the Night of Decree\, is believ
  ed to be the night when the Quran was first revealed to Prophet Muhammad (
  صَلَّى ٱللَّٰهُ عَلَيْهِ وَسَلَّمَ). It is 
@@ -699,8 +699,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:29 Ramadan - Night of Qadr (Revelation of Quran)
-DTSTART;VALUE=DATE:20240408
-DTEND;VALUE=DATE:20240409
+DTSTART;VALUE=DATE:20250329
+DTEND;VALUE=DATE:20250330
 DESCRIPTION:Laylat al-Qadr\, also known as the Night of Decree\, is believ
  ed to be the night when the Quran was first revealed to Prophet Muhammad (
  صَلَّى ٱللَّٰهُ عَلَيْهِ وَسَلَّمَ). It is 
@@ -718,8 +718,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Shawwal - Eid al-Fitr
-DTSTART;VALUE=DATE:20240410
-DTEND;VALUE=DATE:20240411
+DTSTART;VALUE=DATE:20250330
+DTEND;VALUE=DATE:20250331
 DESCRIPTION:Eid al-Fitr is the festival celebrated by Muslims worldwide to
   mark the end of the month of Ramadan and the beginning of Shawwal.
 BEGIN:VALARM
@@ -736,8 +736,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15 Shawwal - Martyrdom of Imam Jafar al-Sadiq (رَضِيَ ٱلل
  هُ عَنْهُ)
-DTSTART;VALUE=DATE:20240424
-DTEND;VALUE=DATE:20240425
+DTSTART;VALUE=DATE:20250413
+DTEND;VALUE=DATE:20250414
 DESCRIPTION:Imam Jafar al-Sadiq (رَضِيَ ٱللهُ عَنْهُ)\, t
  he descendant of Prophet Muhammad (صَلَّى ٱللَّٰهُ عَلَ
  يْهِ وَسَلَّمَ)\, was martyred on this day in the year 148 AH
@@ -757,8 +757,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Zeelqadh - First Day of Zeelqadh
-DTSTART;VALUE=DATE:20240509
-DTEND;VALUE=DATE:20240510
+DTSTART;VALUE=DATE:20250429
+DTEND;VALUE=DATE:20250430
 DESCRIPTION:This day marks the beginning of the month of Zeelqadh in the I
  slamic calendar.
 BEGIN:VALARM
@@ -776,8 +776,8 @@ BEGIN:VEVENT
 SUMMARY:1 Dhu al-Hijja - Marriage of Fatima Zahra (رضي الله عنه
  ا) & Commander of the Faithful\, Ali (رَضِيَ ٱللهُ عَنْه
  ُ)
-DTSTART;VALUE=DATE:20240607
-DTEND;VALUE=DATE:20240608
+DTSTART;VALUE=DATE:20250528
+DTEND;VALUE=DATE:20250529
 DESCRIPTION:The marriage of Fatima Zahra (رضي الله عنها)\, the 
  daughter of Prophet Muhammad (صَلَّى ٱللَّٰهُ عَلَيْه
  ِ وَسَلَّمَ)\, and Imam Ali ibn Abi Talib (رَضِيَ ٱلله
@@ -798,8 +798,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:8 Dhu al-Hijja - Hajj begins
-DTSTART;VALUE=DATE:20240614
-DTEND;VALUE=DATE:20240615
+DTSTART;VALUE=DATE:20250604
+DTEND;VALUE=DATE:20250605
 DESCRIPTION:The annual pilgrimage of Hajj\, one of the five pillars of Isl
  am\, begins on this day in Mecca\, Saudi Arabia.
 BEGIN:VALARM
@@ -816,8 +816,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9 Dhu al-Hijja - Martyrdom of Muslim ibn Aqil (رَضِيَ ٱلل
  هُ عَنْهُ)
-DTSTART;VALUE=DATE:20240615
-DTEND;VALUE=DATE:20240616
+DTSTART;VALUE=DATE:20250605
+DTEND;VALUE=DATE:20250606
 DESCRIPTION:Muslim ibn Aqil (رَضِيَ ٱللهُ عَنْهُ)\, the c
  ousin and emissary of Imam Hussain (رَضِيَ ٱللهُ عَنْهُ)\
  , was martyred on this day in the year 60 AH in Kufa\, Iraq.
@@ -836,8 +836,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10 Dhu al-Hijja - Eid al-Adha
-DTSTART;VALUE=DATE:20240616
-DTEND;VALUE=DATE:20240617
+DTSTART;VALUE=DATE:20250606
+DTEND;VALUE=DATE:20250607
 DESCRIPTION:Eid al-Adha\, also known as the Festival of Sacrifice\, is cel
  ebrated by Muslims worldwide on this day\, commemorating the willingness o
  f Prophet Ibrahim (رَضِيَ ٱللهُ عَنْهُ) to sacrifice his 
@@ -856,8 +856,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16 Dhu al-Hijja (or 24 Safar) - Martyrdom of Zainab bint Ali (رَ
  ضِيَ ٱللهُ عَنْهُ)
-DTSTART;VALUE=DATE:20240622
-DTEND;VALUE=DATE:20240623
+DTSTART;VALUE=DATE:20250612
+DTEND;VALUE=DATE:20250613
 DESCRIPTION:Zainab bint Ali (رَضِيَ ٱللهُ عَنْهُ)\, the d
  aughter of Imam Ali (رَضِيَ ٱللهُ عَنْهُ) and the grandda
  ughter of Prophet Muhammad (صَلَّى ٱللَّٰهُ عَلَيْهِ
@@ -878,8 +878,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:22 Dhu al-Hijja - Martyrdom of the Children of Hazrat Muslim ibn A
  qil (رَضِيَ ٱللهُ عَنْهُ)
-DTSTART;VALUE=DATE:20240628
-DTEND;VALUE=DATE:20240629
+DTSTART;VALUE=DATE:20250618
+DTEND;VALUE=DATE:20250619
 DESCRIPTION:The children of Hazrat Muslim ibn Aqil (رَضِيَ ٱلله
  ُ عَنْهُ)\, who were martyred in the aftermath of their father’s 
  death\, are remembered on this day.
@@ -898,8 +898,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:24 Dhu al-Hijja - Event of the mubahala
-DTSTART;VALUE=DATE:20240630
-DTEND;VALUE=DATE:20240701
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250621
 DESCRIPTION:the event of Mubahela\, a public debate and invocation for div
  ine curse to reveal the truth\, which took place between Prophet Muhammad 
  (صَلَّى ٱللَّٰهُ عَلَيْهِ وَسَلَّمَ) and a 
