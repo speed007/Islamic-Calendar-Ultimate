@@ -16,7 +16,7 @@ To incorporate Islamic Calendar Ultimate into your calendar app, simply use the 
 
 To add the Islamic Calendar Ultimate to your calendar application, follow these simple steps:
 
-1: Copy the URL: https://raw.githubusercontent.com/abdulaliofficial/Islamic-Calendar-Ultimate/main/islamic_calendar_ultimate.ics
+1: Copy the URL: [https://raw.githubusercontent.com/speed007/Islamic-Calendar-Ultimate/refs/heads/main/islamic_calendar_ultimate_sunni.ics]
 Add to Your Calendar: Open your preferred calendar application (such as Google Calendar, Apple Calendar, or Outlook) and add a new calendar using the copied URL.
 
 ### Future Enhancements
